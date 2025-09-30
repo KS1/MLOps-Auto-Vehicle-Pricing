@@ -13,5 +13,7 @@ Screenshots -
 
 ![Pipeline Execution](Model-Validation.jpg)
 
+![Github AzureML Pipeline](Github-AzureML-Pipeline-CICD.jpg)
+
 
 
