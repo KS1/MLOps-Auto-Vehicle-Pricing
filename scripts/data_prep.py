@@ -42,8 +42,6 @@ def main():
     mlflow.log_metric('train size', train_df.shape[0])  # Log the train dataset size
     mlflow.log_metric('test size', test_df.shape[0])  # Log the test dataset size
 
-    print("Data preprocessing completed successfully.")
-
     mlflow.end_run()
 
 if __name__ == "__main__":
