@@ -14,3 +14,6 @@ An automobile dealership in Los Vegas specializes in selling luxury and non-luxu
 
 ![Pipeline Execution](images/Azure-Portal-Test-CSV-data-validation.jpg)
 
+![Pipeline Execution](images/Model-Validation.jpg)
+
+
